@@ -1,6 +1,9 @@
 ![image](https://user-images.githubusercontent.com/64083148/167082806-4e32291a-8b88-4709-9188-b1c5ea9a91bf.png)
 ![image](https://user-images.githubusercontent.com/64083148/167082844-cfcd167c-4a93-409f-8337-efaea12ebcc9.png)
 
+### I ADED
+## _nav.js , router Folder, View Folder-> dashboardForex folder files
+
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [![npm package][npm-coreui-badge]][npm-coreui]
 [![NPM downloads][npm-coreui-download]][npm-coreui]  
